@@ -1,7 +1,7 @@
 I enjoy teaching.  
 I am a strong believer in lifelong learning.
 
-#Teaching
+#Teaching  
 Examples for courses I taught:
 
 * [**"ECE450 - Software Engineering II"**](ECE450-syllabus-winter-2015.pdf)  
@@ -10,8 +10,7 @@ Winter 2013, Winter 2014 and Winter 2015
 
 * [**"CSC301 – Introduction to Software Engineering"**](CSC301W15-CourseInfoSheet.pdf)  
 Fall 2014, Winter 2015
-[Course Material]
-(https://github.com/csc301-fall2014/CSC301H1F-L0101-Home)
+[Course Material](https://github.com/csc301-fall2014/CSC301H1F-L0101-Home)
 
 * [**"CSC302 – Engineering Large Software Systems"**](CSC302W15-CourseInfoSheet.pdf)  
 Winter 2015
