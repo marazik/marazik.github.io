@@ -1,7 +1,7 @@
 I enjoy teaching.  
 I am a strong believer in lifelong learning.
 
-#Teaching  
+# Teaching  
 Examples for courses I taught:
 
 * [**"ECE450 - Software Engineering II"**](ECE450-syllabus-winter-2015.pdf)  
