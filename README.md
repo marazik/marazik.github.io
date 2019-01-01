@@ -1,6 +1,12 @@
 I enjoy teaching.  
 I am a strong believer in lifelong learning.
 
+# Career
+I have worked 4 years in a startup, 6 years at IBM and more than a year and half with Amazon.
+
+Also I worked as a University Professor (Lecturer aka Assistant Professor, Teaching stream) / Adjunct Faculty
+
+
 # Teaching  
 ---
 Examples for courses I taught:
