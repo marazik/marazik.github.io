@@ -2,6 +2,7 @@ I enjoy teaching.
 I am a strong believer in lifelong learning.
 
 # Teaching  
+---
 Examples for courses I taught:
 
 * [**"ECE450 - Software Engineering II"**](ECE450-syllabus-winter-2015.pdf)  
@@ -24,5 +25,7 @@ Winter 2014
 * **"CSC 326 – Programming Languages"**
 Fall 2013
 
+* **"ECE244 - Programming Fundamentals"**   
+Fall 2018, a course for 2nd year Engineering students. My section has 120 students, with 360 students enrolled in the course 3 sections, with a total of 22 Teaching Assistants
 
 Organized the [Professional Software Engineering Lecture Series](SE-Lectures.pdf)
